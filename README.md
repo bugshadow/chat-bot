@@ -59,5 +59,5 @@ This project is a simple chatbot application built with FastAPI. It uses the Goo
 To run the project, use the following command:
 
 ```sh
-uvicorn project3:app --reload
+uvicorn chatbot:app --reload
 
